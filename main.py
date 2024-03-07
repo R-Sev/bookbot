@@ -1,6 +1,6 @@
 
 def main():
-    with open(r"/books/frankenstein.txt") as f:
+    with open(r"books/frankenstein.txt") as f:
         content = f.read()
 
 main()
